@@ -1,0 +1,45 @@
+name: flutter_application_6
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/icons/1.jpeg
+    - lib/icons/2.png
+    - lib/icons/3.png
+    - lib/icons/4.jpeg
+    - lib/icons/5.jpeg
+    - lib/icons/6.jpeg
+    - lib/icons/b1.jpeg
+    - lib/icons/b2.jpg
+    - lib/icons/b3.jpg
+    - lib/icons/b4.jpeg 
+    - lib/icons/b5.jpeg 
+    - lib/icons/b6.jpeg 
+    - lib/icons/b8.jpeg 
+    - lib/icons/s1.jpeg
+    - lib/icons/s2.png
+    - lib/icons/s3.png
+    - lib/icons/s4.jpeg
+    - lib/icons/s5.png
+    - lib/icons/s6.png
+    - lib/icons/s7.png
+    # Add more asset paths as needed
+
